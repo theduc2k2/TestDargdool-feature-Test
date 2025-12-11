@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 9e018a2fc399d294d9e4c68e6c230eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1220978484493156780
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_0
+  - first:
+      213: -6714878107221612838
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_1
+  - first:
+      213: 1053687682544244513
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_2
+  - first:
+      213: -5943508776187224407
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_3
+  - first:
+      213: -778291328247075229
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_4
+  - first:
+      213: 7779899103254659210
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_5
+  - first:
+      213: 126714329619787102
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_6
+  - first:
+      213: -4702603962288487883
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_7
+  - first:
+      213: -6190394551935730867
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_8
+  - first:
+      213: 4203210687160039502
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_9
+  - first:
+      213: 5375057338874811162
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_10
+  - first:
+      213: -6888663558157973568
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_11
+  - first:
+      213: 4228395003741722278
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_12
+  - first:
+      213: 6932467118324088836
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_13
+  - first:
+      213: -4926463720785323033
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_14
+  - first:
+      213: -2663457696348230426
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_15
+  - first:
+      213: 6864612815493142125
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_16
+  - first:
+      213: -8979535714736900130
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_17
+  - first:
+      213: 689233149692674261
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_18
+  - first:
+      213: 7233559171532817411
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_19
+  - first:
+      213: 4391821944339158123
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_20
+  - first:
+      213: -8537748843543500262
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_21
+  - first:
+      213: -7712965744722345390
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_22
+  - first:
+      213: 2617543989526688343
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_23
+  - first:
+      213: -3463594425841861252
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_24
+  - first:
+      213: 4020473036677559468
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_25
+  - first:
+      213: 1951126932822454350
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_26
+  - first:
+      213: -5014763356978230317
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_27
+  - first:
+      213: 1964967934154905609
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_28
+  - first:
+      213: 7127546218904425945
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_29
+  - first:
+      213: -4232188506107135354
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_30
+  - first:
+      213: 4604341273284358206
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_31
+  - first:
+      213: 4134331234973971386
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_32
+  - first:
+      213: -1223615125217240552
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_33
+  - first:
+      213: -1162838704264368820
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_34
+  - first:
+      213: -7743646552905407860
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_35
+  - first:
+      213: 7251200551068998893
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_36
+  - first:
+      213: -454810272317156983
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_37
+  - first:
+      213: 4300097017683965530
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_38
+  - first:
+      213: -7329939221270912767
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_39
+  - first:
+      213: -483374662750581753
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_40
+  - first:
+      213: -3854614973258920332
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_41
+  - first:
+      213: 778477500300999586
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_42
+  - first:
+      213: 7712861815981553702
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_43
+  - first:
+      213: -674454148851997721
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_44
+  - first:
+      213: -1766903488775573728
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_45
+  - first:
+      213: 734943876809992329
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_46
+  - first:
+      213: -2557526467396515386
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_47
+  - first:
+      213: -5571977496795087224
+    second: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 709
+        width: 287
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef36199863e0fe0800000000000000
+      internalID: -1220978484493156780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 755
+        width: 300
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828aff3c826ed94392a720903d2b629
+      internalID: 1950703731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 730
+        width: 283
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2391e765101d74b9ccb6d837922c86
+      internalID: -11601272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_3
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 767
+        width: 238
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ace0c8290256429a726f7895d371c
+      internalID: 2078201182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_4
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 746
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d306d18dba16674dab4c00c705ebb63
+      internalID: -389424010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_5
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 523
+        width: 247
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27ad3bb87bf1874a99f6d0841961f57
+      internalID: -1463105879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 500
+        width: 240
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6080b25f3e4243ba2bf293ca248f9
+      internalID: 1891173638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 423
+        width: 213
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51576c063d6330458e732e9b3779098
+      internalID: 1097309163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 404
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b88eed7bec2747a7b8e01ef409ad3
+      internalID: -1780978383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 399
+        width: 275
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e4a6a63c81f5409512a46fa6c2495
+      internalID: -1596092718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 213
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6dccf5659f96b4187872885e3f8bac
+      internalID: -1907074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 58
+        width: 546
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a70f1636b5d4468f9f073da426c91
+      internalID: 648883286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 101
+        width: 223
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8d24b9fb44c74abb786bfbdbc838e
+      internalID: -891339139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 119
+        width: 191
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449fe48dd378df64bb7c717b8e6543a1
+      internalID: 273080286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 101
+        width: 186
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4d20ef377cea4bbc798e9d9a9238c
+      internalID: 1239905928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67a63269364000548a35567f5667dabf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_0: -1220978484493156780
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_1: 1950703731
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_10: -1907074447
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_11: 648883286
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_12: -891339139
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_13: 273080286
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_14: 1239905928
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_2: -11601272
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_3: 2078201182
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_4: -389424010
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_5: -1463105879
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_6: 1891173638
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_7: 1097309163
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_8: -1780978383
+      20251211_1759_Ragdoll Fists UI Pack_simple_compose_01kc6gyxf2eygrnb4g6vgwgeps_9: -1596092718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

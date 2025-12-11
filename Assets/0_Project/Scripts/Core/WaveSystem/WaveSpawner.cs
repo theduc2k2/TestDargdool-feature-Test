@@ -1,0 +1,163 @@
+﻿// using Core;
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+
+public class WaveSpawner : MonoBehaviour
+{
+    [SerializeField] private List<Wave> waves;
+    [SerializeField] private Transform[] spawnPoints;
+    [SerializeField] private GameObject waveCompletePanel;
+    [SerializeField] private bool isSpawn;
+
+    private int currentWaveIndex = 0;
+
+    //private void OnEnable()
+    //{
+    //    GameEventBus.OnGameStateChanged += OnGameStateChanged;
+    //}
+
+    //private void OnDisable()
+    //{
+    //    GameEventBus.OnGameStateChanged -= OnGameStateChanged;
+    //}
+
+
+    void Start()
+    {
+        waveCompletePanel?.SetActive(false);
+
+        GameEventBus.OnGameStateChanged += OnGameStateChanged;
+    }
+
+    private void OnDestroy()
+    {
+        GameEventBus.OnGameStateChanged -= OnGameStateChanged;
+    }
+    private void OnGameStateChanged(GameState newState)
+    {
+        if (newState == GameState.MENU)
+        {
+            ClearAllEnemies();
+        }
+        else if(newState == GameState.PLAY && isSpawn == false ) 
+        {
+            // Global.Send(new SignalTextWave() { WaveIndex = currentWaveIndex + 1 });
+            StartCoroutine(SpawnWaves());
+        }
+    }
+
+
+    private IEnumerator SpawnWaves()
+    {
+        isSpawn = false;
+        yield return new WaitForSeconds(1f);
+
+        isSpawn = true;
+        while (currentWaveIndex < waves.Count)
+        {
+            Wave wave = waves[currentWaveIndex];
+
+            // Spawn toàn bộ enemy của wave
+            foreach (var enemyData in wave.Enemies)
+            {
+                for (int i = 0; i < enemyData.Count; i++)
+                {
+                    Transform spawnPoint = spawnPoints[Random.Range(0, spawnPoints.Length)];
+                    GameObject enemyObj = SpawnEnemy(enemyData.EnemyPrefab, spawnPoint.position);
+                    ApplyBuffToEnemy(enemyObj, enemyData, currentWaveIndex);
+                    yield return new WaitForSeconds(enemyData.SpawnInterval);
+                }
+            }
+
+            // ⚠️ CHỜ TẤT CẢ ENEMY CHẾT MỚI QUA WAVE TIẾP THEO
+            while (IsAnyEnemyAlive())
+            {
+                yield return new WaitForSeconds(0.2f);
+            }
+
+            // Delay giữa các wave (nếu có)
+            yield return new WaitForSeconds(wave.WaveDelay);
+
+            currentWaveIndex++;
+            // Global.Send(new SignalTextWave() { WaveIndex = currentWaveIndex + 1 });
+        }
+
+        OnAllWavesCompleted();
+    }
+
+
+    public void ClearAllEnemies()
+    {
+        // Dừng spawn ngay lập tức
+        StopAllCoroutines();
+        currentWaveIndex = 0;
+        isSpawn = false;
+
+        // Xóa toàn bộ enemy đang có trên scene
+        EnemyAI[] enemies = FindObjectsByType<EnemyAI>(FindObjectsSortMode.None);
+        foreach (var enemy in enemies)
+        {
+            Destroy(enemy.gameObject);
+        }
+    }
+    private bool IsAnyEnemyAlive()
+    {
+        return FindObjectsByType<EnemyAI>(FindObjectsSortMode.None).Length > 0;
+    }
+    private void OnAllWavesCompleted()
+    {
+        Debug.Log("Tất cả wave đã hoàn thành.");
+        // Bạn có thể làm gì đó ở đây, ví dụ:
+        // - Bật cửa ra next level
+        // - Hiện thông báo
+        // - Thay đổi trạng thái game
+        waveCompletePanel?.SetActive(true);
+    }
+    private void ApplyBuffToEnemy(GameObject enemyObj, EnemyData enemyData, int waveIndex)
+    {
+        EnemyAI enemy = enemyObj.transform.GetComponent<EnemyAI>();
+        if (enemy != null)
+        {
+            float healthMultiplier = 1f + enemyData.healthPerWave * waveIndex;
+            float damageMultiplier = 1f + enemyData.damagePerWave * waveIndex;
+
+
+            enemy.Buff(healthMultiplier, damageMultiplier);
+        }
+    }
+
+    private GameObject SpawnEnemy(GameObject prefab, Vector3 position)
+    {
+        GameObject enemy = Instantiate(prefab, position, Quaternion.identity);
+        EnemySpawnUtils(enemy);
+        return enemy;
+    }
+
+    private static void EnemySpawnUtils(GameObject enemy)
+    {
+        // 1. Reset physics ngay khi spawn (quan trọng với ragdoll)
+        Rigidbody2D[] rbs = enemy.GetComponentsInChildren<Rigidbody2D>();
+        Rigidbody2D rbParent = enemy.GetComponent<Rigidbody2D>();
+        foreach (var rb in rbs)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.angularVelocity = 0f;
+            rb.Sleep(); // Wake up khi cần
+        }
+        rbParent.linearVelocity = Vector2.zero;
+        rbParent.angularVelocity = 0f;
+        rbParent.Sleep(); // Wake up khi cần
+
+        Collider2D[] colliders = enemy.GetComponentsInChildren<Collider2D>();
+        Collider2D parentCollider = enemy.GetComponent<Collider2D>();
+        foreach (var c in colliders)
+        {
+            c.enabled = true; // đảm bảo collider hoạt động
+        }
+        parentCollider.enabled = true;
+    }
+
+   
+}
