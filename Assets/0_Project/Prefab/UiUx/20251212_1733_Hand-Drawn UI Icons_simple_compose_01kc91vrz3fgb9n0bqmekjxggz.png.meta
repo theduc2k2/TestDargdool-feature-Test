@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 244c7d999ef10fe449e46e8f30b3455a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1346836559575767595
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_0
+  - first:
+      213: -4912371901970986795
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_1
+  - first:
+      213: -4437956151377501039
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_2
+  - first:
+      213: 2819376475490909538
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_3
+  - first:
+      213: -3976270905674343454
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_4
+  - first:
+      213: -4191637065439004323
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_5
+  - first:
+      213: 4468560192644968395
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_6
+  - first:
+      213: 4365067461569167652
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_7
+  - first:
+      213: -6107249528272695313
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_8
+  - first:
+      213: -5667119701566392460
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_9
+  - first:
+      213: -5346166959667499282
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_10
+  - first:
+      213: 1299767763680807975
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_11
+  - first:
+      213: 7903823342116412213
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_12
+  - first:
+      213: -998810536794562351
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_13
+  - first:
+      213: 1405645156346883850
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_14
+  - first:
+      213: -7878692308708332331
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_15
+  - first:
+      213: -2087045053638478562
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_16
+  - first:
+      213: -3457310355808304571
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_17
+  - first:
+      213: 3357437424283429852
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_18
+  - first:
+      213: 1560841676582995207
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_19
+  - first:
+      213: -8362789461639493395
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_20
+  - first:
+      213: -2344027217406950631
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_21
+  - first:
+      213: 2466354867235225199
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_22
+  - first:
+      213: 2153276304049801418
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_23
+  - first:
+      213: 6943524040655073220
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_24
+  - first:
+      213: -4428640453970935379
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_25
+  - first:
+      213: -6380528621250827905
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_26
+  - first:
+      213: 7314974453982620440
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_27
+  - first:
+      213: -2382370411186424670
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_28
+  - first:
+      213: -6581400363563562618
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_29
+  - first:
+      213: 9132061056284676065
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_30
+  - first:
+      213: 5990391794775379191
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_31
+  - first:
+      213: -836120253887504951
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_32
+  - first:
+      213: -8525932595215064803
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_33
+  - first:
+      213: 7233735318818153623
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_34
+  - first:
+      213: 1123760063421503486
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_35
+  - first:
+      213: -79642394565663841
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_36
+  - first:
+      213: -5972292091391696938
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_37
+  - first:
+      213: -2139286410924658032
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_38
+  - first:
+      213: -4144418632847743585
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_39
+  - first:
+      213: 5158549811800087619
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_40
+  - first:
+      213: 6065164568077759988
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_41
+  - first:
+      213: 2808086892985918056
+    second: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 848
+        width: 211
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d52affe8431f4de0800000000000000
+      internalID: -1346836559575767595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 896
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8c86238cfb3dbb0800000000000000
+      internalID: -4912371901970986795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 848
+        width: 193
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1946264c4663962c0800000000000000
+      internalID: -4437956151377501039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 843
+        width: 192
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d7abd77ff602720800000000000000
+      internalID: 2819376475490909538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 848
+        width: 187
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb5f80bda271d8c0800000000000000
+      internalID: -3976270905674343454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_5
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 843
+        width: 186
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b5271c4054d5c0800000000000000
+      internalID: -4191637065439004323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_6
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 840
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfed0cd1d3830e30800000000000000
+      internalID: 4468560192644968395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_7
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 849
+        width: 183
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421427baab5d39c30800000000000000
+      internalID: 4365067461569167652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 672
+        width: 207
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef42a069e0be3ba0800000000000000
+      internalID: -6107249528272695313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 680
+        width: 193
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477748838a85a51b0800000000000000
+      internalID: -5667119701566392460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 673
+        width: 194
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea613b9799ec5b0800000000000000
+      internalID: -5346166959667499282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 680
+        width: 185
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cc2b405e3b90210800000000000000
+      internalID: 1299767763680807975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 677
+        width: 191
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b1a42147500bd60800000000000000
+      internalID: 7903823342116412213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_13
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 674
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d06174db138322f0800000000000000
+      internalID: -998810536794562351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_14
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 678
+        width: 184
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fed4082dad18310800000000000000
+      internalID: 1405645156346883850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 505
+        width: 207
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc66dc961349a290800000000000000
+      internalID: -7878692308708332331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 508
+        width: 193
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1574a3d4935903e0800000000000000
+      internalID: -2087045053638478562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 508
+        width: 185
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54244cb8c8a2500d0800000000000000
+      internalID: -3457310355808304571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 660
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb24068c83089e20800000000000000
+      internalID: 3357437424283429852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_19
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 500
+        width: 183
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705ca533c3939a510800000000000000
+      internalID: 1560841676582995207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_20
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 510
+        width: 187
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80997ea4761fb80800000000000000
+      internalID: -8362789461639493395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 498
+        width: 192
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9138c9a3aa7587fd0800000000000000
+      internalID: -2344027217406950631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 507
+        width: 184
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e7c973fa04a3220800000000000000
+      internalID: 2466354867235225199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 156
+        width: 209
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1432798fe4a82c0800000000000000
+      internalID: -4428640453970935379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 204
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a123460fc377a0800000000000000
+      internalID: -6380528621250827905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 199
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81be0be6282048560800000000000000
+      internalID: 7314974453982620440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 330
+        width: 190
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4f4ddbbbe10fed0800000000000000
+      internalID: -2382370411186424670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 336
+        width: 185
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ca253d3b2aa4a0800000000000000
+      internalID: -6581400363563562618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_30
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 338
+        width: 185
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc60f95299bbe70800000000000000
+      internalID: 9132061056284676065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_31
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 336
+        width: 193
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc40015995222350800000000000000
+      internalID: 5990391794775379191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_32
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 336
+        width: 184
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd968d1f018564f0800000000000000
+      internalID: -836120253887504951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 168
+        width: 192
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11284b1a7dcda980800000000000000
+      internalID: -8525932595215064803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 162
+        width: 191
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7946a5d42f3636460800000000000000
+      internalID: 7233735318818153623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_35
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 168
+        width: 185
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75201e2d5689f00800000000000000
+      internalID: 1123760063421503486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 168
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932ad20aad05eef0800000000000000
+      internalID: -79642394565663841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_37
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 162
+        width: 187
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df19b54cf72e1da0800000000000000
+      internalID: -5972292091391696938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_38
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 168
+        width: 193
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092f30cf75abf42e0800000000000000
+      internalID: -2139286410924658032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_39
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 168
+        width: 184
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95a99426311c76c0800000000000000
+      internalID: -4144418632847743585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c908009b9d69740800000000000000
+      internalID: 5158549811800087619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 193
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57f804a0bcb2450800000000000000
+      internalID: 6065164568077759988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_42
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 192
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622bdab62458f620800000000000000
+      internalID: 2808086892985918056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 187
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7dc057ec1811d4b80a43cb7f112af5
+      internalID: -502830642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_44
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 185
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58b20788a8fad41990d74adce9128e
+      internalID: -318488346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_45
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 110
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32fb6ef8cff2004eaa0fac920ae1e56
+      internalID: 793918382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_46
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 186
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386926136f17d67449b585f63f5557b3
+      internalID: 1610881670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_47
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 183
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aaff5415a92254eaa3713f3d0cfa51
+      internalID: -316449817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_48
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 78
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b349894d9735047b9568b54fa6b099
+      internalID: -1043666774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_49
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 57
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e2c0e314b9e294f8561bbfddba6d40
+      internalID: 1374854417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8600cd0317cfc5343823ea9ead3f925e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_0: -1346836559575767595
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_1: -4912371901970986795
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_10: -5346166959667499282
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_11: 1299767763680807975
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_12: 7903823342116412213
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_13: -998810536794562351
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_14: 1405645156346883850
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_15: -7878692308708332331
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_16: -2087045053638478562
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_17: -3457310355808304571
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_18: 3357437424283429852
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_19: 1560841676582995207
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_2: -4437956151377501039
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_20: -8362789461639493395
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_21: -2344027217406950631
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_22: 2466354867235225199
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_23: 2153276304049801418
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_24: 6943524040655073220
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_25: -4428640453970935379
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_26: -6380528621250827905
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_27: 7314974453982620440
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_28: -2382370411186424670
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_29: -6581400363563562618
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_3: 2819376475490909538
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_30: 9132061056284676065
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_31: 5990391794775379191
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_32: -836120253887504951
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_33: -8525932595215064803
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_34: 7233735318818153623
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_35: 1123760063421503486
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_36: -79642394565663841
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_37: -5972292091391696938
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_38: -2139286410924658032
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_39: -4144418632847743585
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_4: -3976270905674343454
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_40: 5158549811800087619
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_41: 6065164568077759988
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_42: 2808086892985918056
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_43: -502830642
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_44: -318488346
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_45: 793918382
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_46: 1610881670
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_47: -316449817
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_48: -1043666774
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_49: 1374854417
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_5: -4191637065439004323
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_6: 4468560192644968395
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_7: 4365067461569167652
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_8: -6107249528272695313
+      20251212_1733_Hand-Drawn UI Icons_simple_compose_01kc91vrz3fgb9n0bqmekjxggz_9: -5667119701566392460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

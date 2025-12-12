@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: a706069e2163029459b944ad9d639d3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3430270240336373573
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_0
+  - first:
+      213: 4426408130649969581
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_1
+  - first:
+      213: -4309319950347481874
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_2
+  - first:
+      213: 2956263120094669096
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_3
+  - first:
+      213: 6410068681612712515
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_4
+  - first:
+      213: -491713684266985711
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_5
+  - first:
+      213: 6472179774766993166
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_6
+  - first:
+      213: 447174446452697961
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_7
+  - first:
+      213: -3025918414840831935
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_8
+  - first:
+      213: -4489934483429691395
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_9
+  - first:
+      213: -2013709166757292949
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_10
+  - first:
+      213: 8526487027450136384
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_11
+  - first:
+      213: 8778040549467608610
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_12
+  - first:
+      213: -6020871402721799245
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_13
+  - first:
+      213: 3724985893756061489
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_14
+  - first:
+      213: -6284198615882486497
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_15
+  - first:
+      213: 5429559259170949964
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_16
+  - first:
+      213: 982593005885200720
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_17
+  - first:
+      213: -3498554987027605828
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_18
+  - first:
+      213: -3307265286655570754
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_19
+  - first:
+      213: 7583410991033617210
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_20
+  - first:
+      213: -3338975321594600032
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_21
+  - first:
+      213: -1012949028882238241
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_22
+  - first:
+      213: 7489127957357331493
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_23
+  - first:
+      213: -1524518189047575714
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_24
+  - first:
+      213: -1763831835802109809
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_25
+  - first:
+      213: 6889011877996518494
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_26
+  - first:
+      213: -1436564047891715022
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_27
+  - first:
+      213: 6845523681063586713
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_28
+  - first:
+      213: -6761473446502595381
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_29
+  - first:
+      213: -8312895617380729655
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_30
+  - first:
+      213: -8385644561189558775
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_31
+  - first:
+      213: -3806862037504005884
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_32
+  - first:
+      213: 4743135900499253644
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_33
+  - first:
+      213: 2802843150266052238
+    second: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 898
+        width: 659
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e7d6fb94ca9f20800000000000000
+      internalID: 3430270240336373573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 698
+        width: 706
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3da422eb2cd6d30800000000000000
+      internalID: 4426408130649969581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 808
+        width: 655
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ae5d6a0061c348949eb3979db1ca1
+      internalID: -4309319950347481874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 650
+        width: 305
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d3f754b26f54f46a9b6ca9113b8cda
+      internalID: 2956263120094669096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 276
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d81439c3e9eef42b935d24d86dda4f
+      internalID: 6410068681612712515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_5
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 343
+        width: 335
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d94c15d4e5a7741b726706facc0613
+      internalID: -491713684266985711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 198
+        width: 758
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08c7a87d2c5a940b864bb30780edfc
+      internalID: 271158796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 756fed1b006257442840e2410225f700
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_0: 3430270240336373573
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_1: 4426408130649969581
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_2: -4309319950347481874
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_3: 2956263120094669096
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_4: 6410068681612712515
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_5: -491713684266985711
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk1eyysz0rq6dqek7vy_6: 271158796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

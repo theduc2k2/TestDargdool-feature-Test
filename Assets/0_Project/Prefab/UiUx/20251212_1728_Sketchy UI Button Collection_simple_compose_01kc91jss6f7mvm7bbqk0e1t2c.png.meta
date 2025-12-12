@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 0cd20c67d3b5d5f488a593201e846de0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1374590150555951583
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_0
+  - first:
+      213: -6003666307724272754
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_1
+  - first:
+      213: 7388095175792429035
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_2
+  - first:
+      213: -1660559559550503365
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_3
+  - first:
+      213: -7650416261846462851
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_4
+  - first:
+      213: -6440410597058661023
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_5
+  - first:
+      213: -504282499881882593
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_6
+  - first:
+      213: 4545354326018312648
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_7
+  - first:
+      213: 4852163538158213254
+    second: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 679
+        width: 469
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd163a38576831310800000000000000
+      internalID: 1374590150555951583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 670
+        width: 394
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1d1a4d41beaca0800000000000000
+      internalID: -6003666307724272754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_2
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 661
+        width: 425
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be782e72b69c78660800000000000000
+      internalID: 7388095175792429035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_3
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 333
+        width: 421
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36fc9ce0e184f8e0800000000000000
+      internalID: -1660559559550503365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_4
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 12
+        width: 413
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e05c881f244d590800000000000000
+      internalID: -7650416261846462851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 5
+        width: 363
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16538aa4fa01f96a0800000000000000
+      internalID: -6440410597058661023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 345
+        width: 376
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2818fcbd6009f0800000000000000
+      internalID: -504282499881882593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 338
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94b9c5da7541f30800000000000000
+      internalID: 4545354326018312648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 12
+        width: 363
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d504b709565340800000000000000
+      internalID: 4852163538158213254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d14a9dd67ee2c67429fe62497563118f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_0: 1374590150555951583
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_1: -6003666307724272754
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_2: 7388095175792429035
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_3: -1660559559550503365
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_4: -7650416261846462851
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_5: -6440410597058661023
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_6: -504282499881882593
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_7: 4545354326018312648
+      20251212_1728_Sketchy UI Button Collection_simple_compose_01kc91jss6f7mvm7bbqk0e1t2c_8: 4852163538158213254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
