@@ -17,7 +17,7 @@ public class HoverScale : MonoBehaviour, IPointerEnterHandler, IPointerExitHandl
 
     void Update()
     {
-        // SmoothDamp tự động làm chuyển động siêu mượt
+        
         transform.localScale = Vector3.SmoothDamp(
             transform.localScale,
             targetScale,

@@ -5,6 +5,10 @@ public class CameraFollow : MonoBehaviour
 
     [Header("Offset so với target")]
     [SerializeField] Vector3 offset = new Vector3(0, 0, -10f);
+    [SerializeField] float maxDistancex = 0f;
+    [SerializeField] float mixDistancex = 0f;
+    [SerializeField] float maxDistancey = 0f;
+    [SerializeField] float mixDistancey = 0f;
 
     [Header("Độ mượt khi theo dõi")]
     [Range(0f, 1f)]

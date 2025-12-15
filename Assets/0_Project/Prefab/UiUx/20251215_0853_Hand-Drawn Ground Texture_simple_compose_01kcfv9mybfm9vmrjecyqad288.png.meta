@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 1ef50b38e8194224ba4b7d2b07ced544
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8929709744780013193
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_0
+  - first:
+      213: -5798786859362886301
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_1
+  - first:
+      213: 2066052637193578483
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_2
+  - first:
+      213: -2962813663135176853
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_3
+  - first:
+      213: -1786883842473289563
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_4
+  - first:
+      213: -1579375972631280319
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_5
+  - first:
+      213: 2247409627739357956
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_6
+  - first:
+      213: 798690918544791908
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_7
+  - first:
+      213: -7467682481744830010
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_8
+  - first:
+      213: -2074102349375925939
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_9
+  - first:
+      213: -3461395488924434688
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_10
+  - first:
+      213: -96952975686139097
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_11
+  - first:
+      213: -4678708520868307155
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_12
+  - first:
+      213: -4147915665602603617
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_13
+  - first:
+      213: 6436973727915443216
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_14
+  - first:
+      213: 6427462946887624069
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_15
+  - first:
+      213: 3011876880593323507
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_16
+  - first:
+      213: 5455602850135618724
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_17
+  - first:
+      213: 169692545884286346
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_18
+  - first:
+      213: -6938892477109206074
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_19
+  - first:
+      213: 1872128051588712275
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_20
+  - first:
+      213: 3234233121904751546
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_21
+  - first:
+      213: 3216679432013584564
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_22
+  - first:
+      213: 7905725189330296514
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_23
+  - first:
+      213: -1293684037786751287
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_24
+  - first:
+      213: -2198029523187151450
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_25
+  - first:
+      213: 339492732913491082
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_26
+  - first:
+      213: 905380757278676273
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_27
+  - first:
+      213: 6086443407618502454
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_28
+  - first:
+      213: -621246672712859811
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_29
+  - first:
+      213: -6119130612740359169
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_30
+  - first:
+      213: 7970156305272016757
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_31
+  - first:
+      213: -3199059409917599664
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_32
+  - first:
+      213: 6283727694243828114
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_33
+  - first:
+      213: 5311350775111697280
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_34
+  - first:
+      213: -1626626850339762319
+    second: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 1536
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ee4f483b3bceb70800000000000000
+      internalID: 8929709744780013193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78ba1411a08f2b147a8acbf2840b1632
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251215_0853_Hand-Drawn Ground Texture_simple_compose_01kcfv9mybfm9vmrjecyqad288_0: 8929709744780013193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
