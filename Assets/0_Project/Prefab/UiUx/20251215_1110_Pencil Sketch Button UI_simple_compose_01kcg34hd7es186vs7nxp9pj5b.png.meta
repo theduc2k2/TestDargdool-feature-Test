@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: d1d38c5d828cb1c4ebfe4f2ee4e1bc71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2898682482145129036
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_0
+  - first:
+      213: 5617371982693430389
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_1
+  - first:
+      213: 8104635731761058014
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_2
+  - first:
+      213: 4109412565568992416
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_3
+  - first:
+      213: 2808871452377401926
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_4
+  - first:
+      213: 220672841327420026
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_5
+  - first:
+      213: 2428459991829155322
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_6
+  - first:
+      213: -5109496527082721658
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_7
+  - first:
+      213: -3605801187894818214
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_8
+  - first:
+      213: 6269498046277016873
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_9
+  - first:
+      213: -4980764949937367612
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_10
+  - first:
+      213: 8064572077541991432
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_11
+  - first:
+      213: 4348930423907336519
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_12
+  - first:
+      213: -2960440441036524093
+    second: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 725
+        width: 449
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd871fe3afc5c7d0800000000000000
+      internalID: -2898682482145129036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 729
+        width: 292
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5747caf5e0ae4fd40800000000000000
+      internalID: 5617371982693430389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 719
+        width: 241
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05e810243797070800000000000000
+      internalID: 8104635731761058014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_3
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 735
+        width: 211
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4344ea4f0970930800000000000000
+      internalID: 4109412565568992416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 416
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ac0b234bd1bf620800000000000000
+      internalID: 2808871452377401926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 237
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a5eea7ccff0300800000000000000
+      internalID: 220672841327420026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 418
+        width: 194
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd893cfe7f93b120800000000000000
+      internalID: 2428459991829155322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 416
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e642adafb6719b0800000000000000
+      internalID: -5109496527082721658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 111
+        width: 231
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a09d88cee95fdc0800000000000000
+      internalID: -3605801187894818214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 408
+        width: 238
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dd850814bb10750800000000000000
+      internalID: 6269498046277016873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_10
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 413
+        width: 238
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c55441daa4c0eab0800000000000000
+      internalID: -4980764949937367612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 109
+        width: 198
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804ac6b939d1bef60800000000000000
+      internalID: 8064572077541991432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_12
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 101
+        width: 220
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c2edcd218a5c30800000000000000
+      internalID: 4348930423907336519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_13
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 104
+        width: 219
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5315d9a176ae6d0800000000000000
+      internalID: -2960440441036524093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52401e9c8044e2b4884f6b64d790835a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_0: -2898682482145129036
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_1: 5617371982693430389
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_10: -4980764949937367612
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_11: 8064572077541991432
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_12: 4348930423907336519
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_13: -2960440441036524093
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_2: 8104635731761058014
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_3: 4109412565568992416
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_4: 2808871452377401926
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_5: 220672841327420026
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_6: 2428459991829155322
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_7: -5109496527082721658
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_8: -3605801187894818214
+      20251215_1110_Pencil Sketch Button UI_simple_compose_01kcg34hd7es186vs7nxp9pj5b_9: 6269498046277016873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

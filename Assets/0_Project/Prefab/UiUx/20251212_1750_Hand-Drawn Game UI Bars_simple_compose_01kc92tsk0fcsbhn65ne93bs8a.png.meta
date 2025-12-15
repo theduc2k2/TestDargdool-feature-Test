@@ -208,7 +208,7 @@ TextureImporter:
         width: 837
         height: 123
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,7 +230,7 @@ TextureImporter:
         width: 846
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,7 +252,7 @@ TextureImporter:
         width: 845
         height: 165
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,7 +274,7 @@ TextureImporter:
         width: 822
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,7 +296,7 @@ TextureImporter:
         width: 361
         height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,7 +318,7 @@ TextureImporter:
         width: 171
         height: 159
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,7 +340,7 @@ TextureImporter:
         width: 207
         height: 372
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,7 +362,7 @@ TextureImporter:
         width: 161
         height: 156
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,7 +384,7 @@ TextureImporter:
         width: 236
         height: 542
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,7 +406,7 @@ TextureImporter:
         width: 288
         height: 141
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,7 +428,7 @@ TextureImporter:
         width: 291
         height: 138
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,7 +450,7 @@ TextureImporter:
         width: 292
         height: 257
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,6 +459,50 @@ TextureImporter:
       bones: []
       spriteID: a721e88c06c8a414db08730c6244a584
       internalID: -4648692510889221939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 107
+        width: 829
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f32f7947a5c5b4eb907da0a817351e
+      internalID: -1898115719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 289
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7526bfee0136e0f49b09171681875661
+      internalID: -667794474
       vertices: []
       indices: 
       edges: []
@@ -481,6 +525,8 @@ TextureImporter:
       20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_1: 2980417577379457767
       20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_10: -7059744285867383987
       20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_11: -4648692510889221939
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_12: -1898115719
+      20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_13: -667794474
       20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_2: 494974974069872651
       20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_3: -4369815453663579362
       20251212_1750_Hand-Drawn Game UI Bars_simple_compose_01kc92tsk0fcsbhn65ne93bs8a_4: -5868244267491386539

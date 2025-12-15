@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 47f70cf87a1a3dd4984a00465382e7af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5890169548694170058
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_0
+  - first:
+      213: -6071147316721264417
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_1
+  - first:
+      213: -2933599600025861135
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_2
+  - first:
+      213: 8646340938450571415
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_3
+  - first:
+      213: -2751680980431391956
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_4
+  - first:
+      213: 1581305317620868591
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_5
+  - first:
+      213: -3689147237768552050
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_6
+  - first:
+      213: -6341907826779672519
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_7
+  - first:
+      213: 4560677709350622689
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_8
+  - first:
+      213: 4055287132062183700
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_9
+  - first:
+      213: -2762408071297501392
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_10
+  - first:
+      213: -5995849100335369950
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_11
+  - first:
+      213: 5076595820835674633
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_12
+  - first:
+      213: -6042211339540933796
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_13
+  - first:
+      213: 297839999336838219
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_14
+  - first:
+      213: -5102891698437155178
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_15
+  - first:
+      213: -2309436323645798478
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_16
+  - first:
+      213: 7028230875953263623
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_17
+  - first:
+      213: 3522362401095738641
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_18
+  - first:
+      213: -4198701963749434703
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_19
+  - first:
+      213: 5085808693725736289
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_20
+  - first:
+      213: -5687650880170053723
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_21
+  - first:
+      213: 8640995297197002333
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_22
+  - first:
+      213: -2423455112515933587
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_23
+  - first:
+      213: 2709762784677769432
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_24
+  - first:
+      213: 6544587670109372979
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_25
+  - first:
+      213: -5306848735804984652
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_26
+  - first:
+      213: 8526356959608913531
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_27
+  - first:
+      213: -2757267254449353311
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_28
+  - first:
+      213: -6179579210656990809
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_29
+  - first:
+      213: -1396582282104686876
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_30
+  - first:
+      213: -2932061239171550378
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_31
+  - first:
+      213: 6437924718358026082
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_32
+  - first:
+      213: 7965975214892256560
+    second: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_0
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 35
+        width: 545
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d24fb00ae14ea0800000000000000
+      internalID: -5890169548694170058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_1
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 149
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028a1e395aca79246a1013d63976359e
+      internalID: 196313896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2345c0bce469b1947acaba6b06ae5bd7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_0: -5890169548694170058
+      20251215_1355_Hand-drawn Sketch Frame_simple_compose_01kcgck0b6e5basnf70rhm7p9a_1: 196313896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

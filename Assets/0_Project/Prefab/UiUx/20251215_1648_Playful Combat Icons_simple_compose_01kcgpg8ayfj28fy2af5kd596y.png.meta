@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 71f0c668f821f524ea083a6f07e48dcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8124693819967986108
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_0
+  - first:
+      213: 7917600802401070967
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_1
+  - first:
+      213: -4971368854461149874
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_2
+  - first:
+      213: 1696431849481672446
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_3
+  - first:
+      213: 4642025780031533665
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_4
+  - first:
+      213: -5253560627847670846
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_5
+  - first:
+      213: 2034014186749832354
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_6
+  - first:
+      213: 1690770109339133190
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_7
+  - first:
+      213: 3030443228537138147
+    second: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 755
+        width: 321
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4462ff7640a4f3f80800000000000000
+      internalID: -8124693819967986108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 752
+        width: 364
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599185116bcb0d14f955ce5023f6d1cc
+      internalID: 7917600802401070967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 369
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0045631acd56b4e86a9e7aa7fe0d5e
+      internalID: -4971368854461149874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 284
+        width: 404
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85955c7102899e0478cc50de13344e7b
+      internalID: 1696431849481672446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ecf9791659383dd439404be6d5aab800
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_0: -8124693819967986108
+      20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_1: 7917600802401070967
+      20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_2: -4971368854461149874
+      20251215_1648_Playful Combat Icons_simple_compose_01kcgpg8ayfj28fy2af5kd596y_3: 1696431849481672446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
